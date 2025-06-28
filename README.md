@@ -1,2 +1,2 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangil6372&layout=compact&theme=highcontrast)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/V2/generate_badge?boj=sangil6372)](https://solved.ac/sangil6372)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangil6372)](https://solved.ac/sangil6372)
