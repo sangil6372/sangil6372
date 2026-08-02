@@ -5,7 +5,7 @@ Banking IT · AI Automation
 
 <br>
 
-![](https://streak-stats.demolab.com?user=sangil6372&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sangil6372&layout=compact&theme=highcontrast)
 
 <br>
 
