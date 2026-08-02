@@ -7,9 +7,9 @@ Banking IT · AI Automation
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sangil6372&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangil6372&theme=github_dark)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangil6372&layout=compact&theme=transparent&hide_border=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangil6372&theme=github_dark)
 
 <br>
 
