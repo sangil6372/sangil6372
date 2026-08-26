@@ -1,7 +1,6 @@
 <div align="center">
 
-Backend Developer  
-Banking IT · AI Automation
+KJB Core Banking Developer – Lending
 
 <br>
 
