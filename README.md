@@ -1,7 +1,5 @@
 <div align="center">
 
-KJB Core Banking Developer – Lending
-
 <br>
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sangil6372&layout=compact&theme=highcontrast)
